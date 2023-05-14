@@ -1,0 +1,22 @@
+.sobre {
+    margin-top: 90px;
+    
+}
+
+.sobre-dados {
+    background-color: rgb(233, 154, 7);
+    box-shadow: 15px 15px 15px rgba(0, 0, 0, 0.7);
+}
+
+
+.text-sobre {
+    text-align: justify;
+    padding: 10px;
+}
+
+#img-sobre {
+    width: 500px;
+    height: 750px;
+    margin-bottom: 50px;
+    box-shadow: 15px 15px 15px rgba(0, 0, 0, 0.7);
+}

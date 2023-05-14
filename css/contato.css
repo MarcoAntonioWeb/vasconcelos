@@ -1,0 +1,86 @@
+.bg-form {
+    background-image: linear-gradient(to right, #f83600 0%, #f9d423 100%);
+    margin: 80px 0 50px 0;
+    padding: 60px 0 50px 0; 
+    border-radius: 10px;
+}
+.responsive-form {
+     padding-left: 20px;  
+
+}.responsive-form p {
+    font-size: 1.2rem;
+    color: white;
+    text-align: center;
+}
+
+.title-form {
+    text-align: center;
+    color: white;
+    font-size: 3rem;
+    font-weight: 700;
+    font-family: 'tITILLIUM wEB', sans-serif;
+} 
+
+.responsive-form-link {
+    padding-left: 20px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+
+#form-whatsapp {
+    font-size: 3rem;
+    color: black;
+    font-weight: 700;
+    transition: 0.2s;
+}
+
+#form-whatsapp:hover {
+    opacity: 0.8;
+}
+
+#form-instagram {
+    font-size: 3rem;
+    color: black;
+    font-weight: 700;
+    transition: 0.2s;
+}
+
+#form-instagram:hover {
+    opacity: 0.8;
+
+}
+
+.input-form {
+    border: none;
+    outline: none;
+    padding: 8px 0 0 5px;
+    font-size: 1.2rem;
+    border-radius: 5px;
+}
+
+.text-area-form {
+    border: none;
+    border-radius: 5px;
+}
+
+.btn-form {
+    margin-top: 20px;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    font-size: 2rem;
+    font-family: "Sans Serif",Arial, Helvetica, sans-serif;
+    background-color: aqua;
+    font-weight: 500;
+    color: rgb(41, 40, 40);
+    border-radius: 8px;
+    transition: 0.2s;
+}
+
+.btn-form:hover {
+    opacity: 0.8;
+    color: #000;
+}
