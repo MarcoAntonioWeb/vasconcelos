@@ -1,0 +1,39 @@
+.bannerPrincipal {
+    position: relative;
+}
+
+.imgPrincipal {
+    display: block;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+}
+
+.textoPrincipal {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.bannerTitle {
+    font-size: 3rem;
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+
+.bannerSubTitle {
+    font-size: 2rem;
+    text-transform: uppercase;
+}
+
+.btnPrincipal {
+    border: none;
+    padding: 5px 100px;
+    border-radius: 25px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.3rem;
+    font-weight: 500;
+    background-color: var(--btn-color-button);
+}
